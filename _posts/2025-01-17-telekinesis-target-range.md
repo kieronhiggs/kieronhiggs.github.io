@@ -2,7 +2,7 @@
 layout: post
 title: Telekinesis Target Range
 subtitle: A subtitle for the ages
-tags: ['School Projects']
+tags: ['Solo Projects']
 published: true
 image: 
     path: "/assets/images/telekinesistargetrange-thumbnail.png"

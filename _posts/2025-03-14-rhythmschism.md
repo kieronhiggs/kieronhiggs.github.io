@@ -2,7 +2,7 @@
 layout: post
 title: Rhythm Schism
 subtitle: A subtitle for the ages
-tags: ['School Projects']
+tags: ['Game Jams']
 published: true
 image: 
     path: "/assets/images/rhythmschism-thumbnail.png"

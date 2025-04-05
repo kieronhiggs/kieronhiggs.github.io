@@ -2,7 +2,7 @@
 layout: post
 title: MatchClash
 subtitle: A subtitle for the ages
-tags: ['School Projects']
+tags: ['Solo Projects']
 published: true
 image: 
     path: "/assets/images/matchclash-thumbnail.png"
