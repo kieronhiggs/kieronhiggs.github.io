@@ -1,6 +1,6 @@
 ---
 layout: tags
 title: Tags
-permalink: /my-blog/
+permalink: /tags/
 icon: fa-solid fa-tags
 ---
